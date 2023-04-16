@@ -1,2 +1,1 @@
-# KeyPresser
-An upgraded version of my previously posted autoclicker. More info in the README.
+An upgraded version of the autoclicker I posted. This can press left click, right click, any letter key, any number key, backspace, space, shift, tab, and enter. It also still has the feature that allows you to select click speed. The reason I didn't add function keys is because it uses a function key to activate, that key being F6. If you want me to add more keys, leave a comment or feel free to make a pull request that adds it.
